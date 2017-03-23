@@ -14,4 +14,10 @@ header {
 .navbar-custom .navbar-brand {
   color: #3c763d;
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+  font-size: 2em;
+}
+
+.text-primary{
+    color: #38c73b;
+
 }
