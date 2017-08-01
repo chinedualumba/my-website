@@ -1,5 +1,5 @@
 header {
-    background-image: url('../img/mountains-conc.jpg');
+    background-image: url('../img/rawpixel.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center;
@@ -9,6 +9,7 @@ header {
   -o-background-size: cover;
   text-align: center;
   color: #bad4bb;
+  max-height: 550px;
 }
 
 .navbar-custom .navbar-brand {
@@ -17,7 +18,17 @@ header {
   font-size: 2em;
 }
 
+.navbar-collapse > menus{
+  color: #3c763d;
+
+}
+
 .text-primary{
     color: #38c73b;
 
+}
+
+.team-member > .alumba{
+  border-radius: 15%;
+  max-width: 80%;
 }
