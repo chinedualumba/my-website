@@ -8,12 +8,13 @@ header {
   background-size: cover;
   -o-background-size: cover;
   text-align: center;
-  color: #bad4bb;
+  color: #fec503;
   max-height: 550px;
 }
 
 .navbar-custom .navbar-brand {
-  color: #3c763d;
+  /* color: #3c763d;#fec503 */
+  color: #fec503;
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
   font-size: 2em;
 }
